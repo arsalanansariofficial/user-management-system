@@ -1,0 +1,32 @@
+/* MAIN CONTAINER */
+
+.container {
+    text-align: center;
+}
+
+/* WARNING CONTAINER*/
+
+.container-form-helper {
+    background: black;
+    border-radius: 10px;
+    padding: 24px 10px 24px 10px;
+    margin: auto auto -90px;
+}
+
+.form-helper-text {
+    color: white;
+}
+
+/* VALIDATION MESSAGE*/
+
+.hide {
+    display: none;
+}
+
+.display {
+    display: block;
+}
+
+.validation-message {
+    color: red;
+}
